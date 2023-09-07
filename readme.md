@@ -1,6 +1,6 @@
 # Big Base64 Decoder Using PowerShell
 
-This PowerShell script is designed to decode Base64 encoded strings that are nested up to 100 times. It reads from a file called `encoded.txt` and outputs the decoded strings to the console.
+This PowerShell script is designed to decode Base64 encoded strings that are nested up to 100 times(you can modify as you want). It reads from a file called `encoded.txt` and outputs the decoded strings to the console.
 
 ## How to Use
 
