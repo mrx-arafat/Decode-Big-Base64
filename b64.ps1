@@ -1,4 +1,4 @@
-# Read the file line-by-line
+# Read the file 
 Get-Content "encoded.txt" | ForEach-Object {
     $current = $_.Trim()  # Trim the string to remove any extra spaces or newlines
     # Loop 100 times to decode
